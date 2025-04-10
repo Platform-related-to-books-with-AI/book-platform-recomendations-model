@@ -1,0 +1,15 @@
+CSV
+    name
+    authors
+    isbn
+    rating
+    publisher
+    ratingdisttotal
+    coutsofreview
+    pagesnumber
+
+API
+    description
+    subjects
+    isbn 10
+    isbn 13
